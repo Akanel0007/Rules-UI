@@ -1,0 +1,7 @@
+C:\Users\landr\source\repos\NelRulesUI\NelRulesUI\bin\Debug\NelRulesUI.dll
+C:\Users\landr\source\repos\NelRulesUI\NelRulesUI\bin\Debug\NelRulesUI.pdb
+C:\Users\landr\source\repos\NelRulesUI\NelRulesUI\obj\Debug\NelRulesUI.csproj.AssemblyReference.cache
+C:\Users\landr\source\repos\NelRulesUI\NelRulesUI\obj\Debug\NelRulesUI.csproj.CoreCompileInputs.cache
+C:\Users\landr\source\repos\NelRulesUI\NelRulesUI\obj\Debug\NelRulesUI.csproj.CopyComplete
+C:\Users\landr\source\repos\NelRulesUI\NelRulesUI\obj\Debug\NelRulesUI.dll
+C:\Users\landr\source\repos\NelRulesUI\NelRulesUI\obj\Debug\NelRulesUI.pdb
